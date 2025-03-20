@@ -53,4 +53,21 @@ nav{
 
 .ul{
     font-family: Arial, Helvetica, sans-serif;
+} 
+
+section#home {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+section#home h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+section#home p {
+    font-size: 18px;
+    line-height: 1.6;
 }
